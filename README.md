@@ -1,4 +1,4 @@
-TREEHOUSE This repo is for all my course files completed through teamtreehouse.com
 
+Also checkout my treehouse profile [here](https://teamtreehouse.com)
 
-I am now adding some things which are not going to merge correctly
+![danny devito](https://user-images.githubusercontent.com/40617568/41950681-2bf1d8d4-7995-11e8-9735-37041f04a022.jpg)
